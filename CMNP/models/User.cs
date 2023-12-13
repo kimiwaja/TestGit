@@ -8,5 +8,6 @@ namespace CMNP.models
 {
     internal class User
     {
+        public int UserName { get; set; }
     }
 }
